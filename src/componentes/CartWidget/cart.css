@@ -1,0 +1,21 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    color: #c59fe9;
+    position: relative; 
+  }
+  
+  .cart-widget i.bi-cart {
+    color: #d0f7f3;
+  }
+  
+  .item-count {
+    background-color: #dfe4d6;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px 8.5px;
+    border-radius: 50%;
+    position: absolute; 
+    top: -8px; 
+    right: -8px;
+  }

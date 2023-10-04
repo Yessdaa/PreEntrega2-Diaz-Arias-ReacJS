@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #ffffff;
+  }
+  
+  .navbar-brand {
+    color: #ddccf8;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler-icon {
+    color: #d58fdb;
+  }
+  
+  .nav-link {
+    color: #c093c9;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: #ac95c5;
+  }
+  
+  .cart-widget {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .cart-widget i {
+    margin-right: 5px;
+  }
+  
